@@ -1,4 +1,4 @@
 # myresume.github.io
 
 website link-
-🔗 https://kumabhinav.github.io/myresume.github.io/
+https://kumabhinav.github.io/myresume.github.io/
